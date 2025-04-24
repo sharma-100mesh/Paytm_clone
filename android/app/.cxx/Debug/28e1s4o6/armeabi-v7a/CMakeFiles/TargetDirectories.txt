@@ -1,0 +1,2 @@
+D:/flutter project/paytm_clone/android/app/.cxx/Debug/28e1s4o6/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/flutter project/paytm_clone/android/app/.cxx/Debug/28e1s4o6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
